@@ -53,27 +53,30 @@ async def galaxy_pages(galaxyname):
 
                         # Use partial to bind img, checkbox, comment_input values at definition time
                         #checkbox.on("change", partial(update_annotation, img, checkbox, comment_input))
-                        comment_input.on("blur", partial(update_annotation, img, checkbox, comment_input.value, galaxyname))
+                        comment_input.on("blur", partial(update_annotation, img, checkbox.value, comment_input, galaxyname))
 
 
 ##################################
 # HELPER FUNCTIONS FOR THE PAGES #
 ##################################
 def update_annotation(img_path, value, comment_input, galaxyname):
-                            global annotations
-                            new_row = {
-                                "galaxy": galaxyname,
-                                "image": img_path,
-                                "follow_up": value,
-                                "comment": comment_input
-                            }
-                            print(f"Updating annotation for {img_path}: {new_row}")
-                            annotations = annotations[
-                                ~((annotations["galaxy"] == galaxyname) &
-                                  (annotations["image"] == img_path))
-                            ]
-                            annotations = pd.concat([annotations, pd.DataFrame([new_row])], ignore_index=True)
-                            save_annotations(annotations)
+    global annotations
+    if type(comment_input) is str:
+        comment_value=comment_input
+    else:
+        comment_value = comment_input.value
+    new_row = {
+                "galaxy": galaxyname,
+                "image": img_path,
+                "follow_up": value,
+                "comment": comment_value}
+    print(f"Updating annotation for {img_path}: {new_row}")
+    annotations = annotations[
+                    ~((annotations["galaxy"] == galaxyname) &
+                    (annotations["image"] == img_path))
+                    ]
+    annotations = pd.concat([annotations, pd.DataFrame([new_row])], ignore_index=True)
+    save_annotations(annotations)
 
 def _post_table(galaxy_df):
 
