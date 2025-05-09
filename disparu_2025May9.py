@@ -3,8 +3,6 @@ import pandas as pd
 from nicegui import ui
 from theme import frame
 from functools import partial
-from nicegui import app
-app.add_static_files('/images', 'static/images')
 
 ################################
 # THE NICEGUI PAGE DEFINITIONS #
@@ -20,9 +18,8 @@ async def home():
                 
 @ui.page("/{galaxyname}")
 async def galaxy_pages(galaxyname):
-    global annotations
     annotations = load_annotations()
-    imsize = 256
+    imsize=256
 
     with frame():
         ui.label(f"{galaxyname}").classes("text-h1")
@@ -37,44 +34,47 @@ async def galaxy_pages(galaxyname):
                 saved_follow_up = bool(existing["follow_up"].values[0]) if not existing.empty else False
                 saved_comment = str(existing["comment"].values[0]) if not existing.empty else ""
 
-                # Variables that store current values for this image
-                follow_up_value = saved_follow_up
-                comment_value = saved_comment
-
                 with ui.row().classes("w-full items-center justify-between"):
-                    web_path = img.replace('static/images', '/images')
-                    ui.image(web_path).classes("max-w-[80%] h-auto object-contain")
+                    ui.image(img).classes("max-w-[80%] h-auto object-contain")
                     with ui.column().classes("items-center"):
                         ui.label("Follow up?").classes("text-sm text-gray-600")
-                        check_update_func = partial(update_annotation, img_path=img, comment_input=comment_value, galaxyname=galaxyname)
-                        checkbox = ui.checkbox(value=follow_up_value, on_change=lambda e: check_update_func(value=e.sender.value))
-                        comment_input = ui.input(label='Comments', value=comment_value)
+                        follow_up = ui.checkbox(value=saved_follow_up)
+                        comment = ui.input(label='Comments', value=saved_comment)
 
-
-                        # Use partial to bind img, checkbox, comment_input values at definition time
-                        #checkbox.on("change", partial(update_annotation, img, checkbox, comment_input))
-                        comment_input.on("blur", partial(update_annotation, img, checkbox, comment_input.value, galaxyname))
-
-
-##################################
-# HELPER FUNCTIONS FOR THE PAGES #
-##################################
-def update_annotation(img_path, value, comment_input, galaxyname):
-                            global annotations
+                        # Save on change
+                        def update_annotation(image, checkbox, inputbox):
+                            nonlocal annotations
                             new_row = {
                                 "galaxy": galaxyname,
-                                "image": img_path,
-                                "follow_up": value,
-                                "comment": comment_input
+                                "image": img,
+                                "follow_up": checkbox.value,
+                                "comment": inputbox.value
                             }
-                            print(f"Updating annotation for {img_path}: {new_row}")
+
+                            # Debugging: Check the new values before saving
+                            print(f"Updating annotation for {image}: {new_row}")
+
+                            # Remove existing row if any
                             annotations = annotations[
                                 ~((annotations["galaxy"] == galaxyname) &
-                                  (annotations["image"] == img_path))
+                                  (annotations["image"] == img))
                             ]
                             annotations = pd.concat([annotations, pd.DataFrame([new_row])], ignore_index=True)
                             save_annotations(annotations)
 
+                            # Debugging: Print the saved DataFrame
+                            print(annotations)
+
+                        follow_up.on("change", partial(update_annotation, img, follow_up, comment))
+                        comment.on("blur", partial(update_annotation, img, follow_up, comment))  # Save when user finishes typing
+        #with ui.grid(columns=10, rows=len(img_paths)).classes("gap-1 w-full"):
+        #    for img in img_paths:
+        #        ui.image(img).classes(f"w-full h-auto object-contain col-span-9")
+        #        ui.checkbox().classes("col-span-1")
+        
+##################################
+# HELPER FUNCTIONS FOR THE PAGES #
+##################################
 def _post_table(galaxy_df):
 
     table = ui.table.from_pandas(galaxy_df).classes('width-500')
