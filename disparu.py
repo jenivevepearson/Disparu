@@ -14,9 +14,10 @@ CSV_PATH = "./annotations.csv"
 
 @ui.page("/")
 async def home():
-    galaxy_df = _generate_table("static/images/*")
+    galaxy_df = _generate_table("static/images/sciimg*")
     with frame():
-        ui.label("Welcome to Disparu!").classes("text-h1")
+        ui.label("Disparu:").classes("text-h1")
+        ui.label("The Hunt for Failed Supernovae").classes("text-h2")
         
         _post_table(galaxy_df)
                 
@@ -24,10 +25,10 @@ async def home():
 async def galaxy_pages(galaxyname):
     global annotations
     annotations = load_annotations()
-    imsize = 256
+    imsize = 72
 
     with frame():
-        ui.label(f"{galaxyname}").classes("text-h1")
+        ui.label(f"{galaxyname.split('_')[-1]}").classes("text-h1")
         
         img_paths = glob.glob(f"static/images/{galaxyname}/*")
         with ui.grid(columns=1).classes("w-full"):
@@ -43,16 +44,17 @@ async def galaxy_pages(galaxyname):
                     
                 follow_up_value = saved_follow_up
                 comment_value = saved_comment
-                print(follow_up_value)
+                #print(follow_up_value)
                 with ui.row().classes("w-full items-center justify-between"):
                     web_path = img.replace('static/images', '/images')
                     ui.image(web_path).classes("max-w-[80%] h-auto object-contain")
-                    img_path = ui.label(img).classes("text-h3")
+                    #img_path = ui.label(img).classes("text-h3")
                     with ui.column().classes("items-center"):
+                        ui.label(f"{img.split('_')[-1].split('.')[0].replace('r', 'r ').replace('s', 'S')}").classes("text-h4")
                         ui.label("Follow up?").classes("text-sm text-gray-600")
                         checkbox = ui.checkbox(
                             value=follow_up_value,
-                            on_change=lambda e, img=img_path.text: update_check(img, e.sender, galaxyname)
+                            on_change=lambda e, img=img: update_check(img, e.sender, galaxyname)
                         )
                         comment_input = ui.input(label='Comments', value=comment_value)
 
@@ -109,7 +111,7 @@ def _post_table(galaxy_df):
     table.on(
         'rowClick',
         lambda e : ui.navigate.to(
-               f'/{e.args[1]["Galaxy Name"]}'
+               f'/sciimg_{e.args[1]["Galaxy Name"]}'
             )
     )
 
@@ -117,7 +119,7 @@ def _generate_table(images_dir):
 
     data = {"Galaxy Name":[]}
     for dirname in glob.glob(images_dir):
-        data["Galaxy Name"].append(os.path.basename(dirname))
+        data["Galaxy Name"].append(os.path.basename(dirname).split('_')[-1])
 
     return pd.DataFrame(data)
 
@@ -125,6 +127,7 @@ def load_annotations():
     if os.path.exists(CSV_PATH):
         annotations = pd.read_csv(CSV_PATH)
         annotations.index = annotations.image
+        annotations = annotations.fillna('')
         return annotations
     else:
         return pd.DataFrame(columns=["galaxy", "image", "follow_up", "comment"])

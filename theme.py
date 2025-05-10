@@ -11,7 +11,7 @@ def frame(drawer=None):
         "Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, "
         "Segoe UI Emoji, Segoe UI Symbol"
     )
-    ui.query(".body--light").style(f"background-color: #eff3f8")
+    ui.query(".body--light").style(f"background-color: #f8f2ef")
 
     def _toggle_dark(*args):
         dark.toggle()
@@ -20,11 +20,11 @@ def frame(drawer=None):
             ui.query(".body--dark").style(f"background-color: #121212")
             footer.classes(remove="text-dark", add="text-white")
         else:
-            ui.query(".body--light").style(f"background-color: #eff3f8")
+            ui.query(".body--light").style(f"background-color: #f8f2ef")
             footer.classes(remove="text-white", add="text-dark")
 
-    with ui.header(elevated=False).classes("q-pa-none"):
-        with ui.element("q-toolbar").classes("bg-primary text-white"):
+    with ui.header(elevated=False).classes("q-pa-none").style("background-color: #7d170a; color: white"):
+        with ui.element("q-toolbar").classes("background-color: #7d170a; color: white"):
             # with ui.element("q-img"):
             
             if drawer is not None:
@@ -35,7 +35,7 @@ def frame(drawer=None):
                 ui.separator().props("dark vertical inset").classes("q-mr-sm")
 
             with ui.button().props("flat").classes("text-white"):
-                ui.link("Catalog", "/").classes(replace="")
+                ui.link("Home", "/").classes(replace="")
     
             ui.element("q-space")
 
