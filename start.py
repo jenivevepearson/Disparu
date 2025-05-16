@@ -2,7 +2,7 @@ import os
 import argparse
 
 from nicegui import ui, app
-from disparu import *
+from disparu import * #home, galaxy_pages, followup_pages
 
 def main():
     
