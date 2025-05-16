@@ -58,6 +58,10 @@ async def galaxy_pages(galaxyname):
                             on_change=lambda e, img=img: update_check(img, e.sender, galaxyname)
                         )
                         comment_input = ui.input(label='Comments', value=comment_value)
+                        # Use partial to bind img, checkbox, comment_input values at definition time
+                        comment_input.on("blur", partial(update_comment, img, comment_input, galaxyname))
+
+
 
 print("Defining /candidates route")
 @ui.page("/candidates")
