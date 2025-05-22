@@ -18,9 +18,10 @@ from .util import (
 
 @ui.page("/{galaxyname}")
 async def galaxy_pages(galaxyname):
-    global annotations
+    #global annotations
     annotations = load_annotations()
     imsize = 72
+    #chunk_size=200
     #print('loading')
 
     with frame():
@@ -30,8 +31,11 @@ async def galaxy_pages(galaxyname):
             str(Path(__file__).parent),
             f"static/images/{galaxyname}/*"
         ))
+        img_paths = [os.path.relpath(p, start=str(Path(__file__).parent)) for p in img_paths]
         with ui.grid(columns=1).classes("w-full"):
             for img in img_paths:
+                #print(f"IMG: {img}")
+                #print(f"IN ANNOTATIONS: {img in annotations.index}")
                 try:
                     existing = annotations.loc[img]
                     saved_follow_up = bool(existing["follow_up"])
@@ -45,7 +49,7 @@ async def galaxy_pages(galaxyname):
                 comment_value = saved_comment
                 #print(follow_up_value)
                 with ui.row().classes("w-full items-center justify-between"):
-                    web_path = img #img.replace('static/images', '/images')
+                    web_path = img.replace('static/', '/')
                     ui.image(web_path).classes("max-w-[80%] h-auto object-contain")
                     #img_path = ui.label(img).classes("text-h3")
                     with ui.column().classes("items-center"):

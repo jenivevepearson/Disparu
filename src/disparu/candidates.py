@@ -20,13 +20,13 @@ async def followup_pages():
     # global annotations
     annotations = load_annotations()
     imsize = 72
-    print('follow up loading')
+    #print('follow up loading')
     
     with frame():
         ui.label(f"Candidates for Follow-up").classes("text-h1")
         followup_df = annotations[annotations["follow_up"]==True]
         img_paths = followup_df['image']
-        print(img_paths)
+        #print(img_paths)
         with ui.grid(columns=1).classes("w-full"):
             for img in img_paths:
                 try:
@@ -55,3 +55,5 @@ async def followup_pages():
                                 on_change=lambda e, img=img: update_check(img, e.sender, galaxyname)
                                 ) 
                         comment_input = ui.input(label='Comments', value=comment_value)
+                        # Use partial to bind img, checkbox, comment_input values at definition time
+                        comment_input.on("blur", partial(update_comment, img, comment_input, galaxyname))
