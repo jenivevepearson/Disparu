@@ -2,10 +2,12 @@ import os
 import argparse
 
 from nicegui import ui, app
-from disparu import * #home, galaxy_pages, followup_pages
+from disparu.disparu import *
+from disparu.candidates import *
+from disparu.img_pages import *
 
 def main():
-    
+
     ui.run(
         title = 'Disparu', # sets the title of the tab
         favicon = '',

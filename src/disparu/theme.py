@@ -39,7 +39,7 @@ def frame(drawer=None):
             with ui.button().props("flat").classes("text-white"):
             #ui.button("Follow-up", on_click=lambda: ui.navigate.to('/followup')).props("flat").classes(replace="")
                 ui.link("Candidates", "/candidates").classes(replace="")
-    
+                
             ui.element("q-space")
 
             #with ui.button().props("flat").classes("text-white"):
