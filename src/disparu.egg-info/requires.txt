@@ -1,0 +1,15 @@
+importlib-metadata
+nicegui
+fastapi
+sqlmodel
+starlette
+plotly
+pandas
+numpy
+astropy
+py3-validate-email
+
+[testing]
+setuptools
+pytest
+pytest-cov
