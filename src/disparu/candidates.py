@@ -48,8 +48,9 @@ async def followup_pages():
                     ui.image(web_path).classes("max-w-[80%] h-auto object-contain")
                     #img_path = ui.label(img).classes("text-h3")
                     with ui.column().classes("items-center"):
-                        ui.label(f"{img.split('_')[-2].split('/')[-1]}").classes("text-h4")
-                        ui.label(f"{img.split('_')[-1].split('.')[0].replace('r', 'r ').replace('s', 'S')}").classes("text-h4")
+                        ui.label(f"{img.split('_')[-4].split('/')[-1]}").classes("text-h5")
+                        ui.label(f"{img.split('_')[-3].split('/')[-1][:2]}: {img.split('_')[-3].split('/')[-1][2:]}").classes("text-sm")
+                        ui.label(f"{img.split('_')[-2].split('/')[-1][:3]}: {img.split('_')[-2].split('/')[-1][3:]}").classes("text-sm")
                         ui.label("Follow up?").classes("text-sm text-gray-600")
                         checkbox = ui.checkbox(
                                 value=follow_up_value,
