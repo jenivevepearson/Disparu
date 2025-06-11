@@ -12,6 +12,7 @@ def main():
         title = 'Disparu', # sets the title of the tab
         favicon = '',
         dark = False, # inherits dark mode from the computer settings
+        port = 8081,
     )
 
 if __name__ in {"__main__", "__mp_main__"}:

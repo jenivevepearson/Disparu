@@ -16,7 +16,7 @@ sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4719813_Dec47.1
 sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5232337_Dec47.1763894_star6431.png,False,variable - JP
 sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5040803_Dec47.2173382_star2508.png,False,variable - JP
 sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4713521_Dec47.2044570_star6555.png,False,
-sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4898865_Dec47.1795759_star6482.png,True,Did this have an outburst? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4898865_Dec47.1795759_star6482.png,True,variable? - JP
 sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4928201_Dec47.2338564_star2124.png,True,still fading - JP
 sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4822248_Dec47.2037921_star2474.png,False,variable - JP
 sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5186783_Dec47.1743523_star6519.png,False,variable - JP
@@ -24,7 +24,7 @@ sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5033482_Dec47.2
 sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5202262_Dec47.1774792_star1187.png,False,variable - JP
 sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5118886_Dec47.1642328_star2265.png,False,variable - JP
 sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5027054_Dec47.2222864_star2161.png,True,still fading - JP
-sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0704142_Dec12.9797585_star95.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0704142_Dec12.9797585_star95.png,False,SN2009hd - JP
 sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0845008_Dec12.9699926_star258.png,False,moving object - JP
 sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0608195_Dec13.0019691_star21.png,False,variable - JP
 sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0724064_Dec12.9828282_star234.png,False,variable - JP
@@ -43,10 +43,408 @@ sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0674614_Dec13.0
 sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0685385_Dec12.9829118_star229.png,False,variable - JP
 sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0708036_Dec13.0037066_star58.png,False,variable - JP
 sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0596740_Dec12.9751200_star86.png,False,variable? - JP
-sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0617437_Dec13.0053673_star11.png,False,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0617437_Dec13.0053673_star11.png,False,variable - JP
 sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0636112_Dec12.9818271_star139.png,False,variable - JP
-sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0621483_Dec13.0067627_star9.png,False,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0621483_Dec13.0067627_star9.png,False,variable - JP
 sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0721562_Dec12.9713259_star247.png,False,variable - JP
-sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0636509_Dec12.9811450_star225.png,False,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0636509_Dec12.9811450_star225.png,False,variable - JP
 sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0714556_Dec12.9815134_star235.png,False,variable - JP
 sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0713699_Dec12.9754852_star242.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4840082_Dec47.1966172_star354.png,False,M51-DS1 - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4917137_Dec47.2365840_star2114.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5112072_Dec47.2093917_star2185.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4982256_Dec47.2330288_star2138.png,True,fading? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4562980_Dec47.2217643_star2099.png,True,still there? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4768558_Dec47.2026414_star6560.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5098880_Dec47.2017189_star6623.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4876686_Dec47.1767643_star6428.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5354583_Dec47.2143283_star1949.png,True,Probably variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5259058_Dec47.1937985_star1020.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4604015_Dec47.1627046_star432.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4843914_Dec47.1989759_star1787.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4805732_Dec47.1727682_star566.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5054097_Dec47.1937306_star4203.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5212790_Dec47.1697027_star135.png,True,still fading? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5306064_Dec47.1937252_star6056.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4953665_Dec47.2111811_star342.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4882123_Dec47.1631016_star34.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5349511_Dec47.2138734_star1952.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5252253_Dec47.1761412_star119.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5030465_Dec47.1891237_star6645.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5241797_Dec47.1777428_star6523.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5101850_Dec47.1632333_star92.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5055611_Dec47.2144220_star2529.png,True,2005 image suggests variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4757421_Dec47.2028974_star6558.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5143183_Dec47.1887179_star42.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5084616_Dec47.1972473_star2739.png,False,variable? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5213931_Dec47.1695781_star6538.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5073149_Dec47.1974349_star619.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4853881_Dec47.1797005_star6449.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4926566_Dec47.1822445_star6483.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5176824_Dec47.1686608_star6413.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5016209_Dec47.1870361_star19.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4795916_Dec47.1958375_star6573.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5193996_Dec47.1709980_star1694.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5193079_Dec47.2099380_star2719.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5138937_Dec47.1847576_star6501.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5105892_Dec47.1912230_star6474.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5043735_Dec47.2219003_star1534.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5134346_Dec47.2095508_star555.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5062730_Dec47.1569471_star6062.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5080715_Dec47.2173085_star399.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5282050_Dec47.1788004_star6359.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5229032_Dec47.1770018_star2264.png,False,not in frame - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5290569_Dec47.1927670_star2380.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4956016_Dec47.2249876_star1516.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4781720_Dec47.2029430_star2466.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0587699_Dec12.9825667_star66.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0774879_Dec12.9967879_star193.png,True,fading? - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0674833_Dec13.0034096_star37.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0689190_Dec13.0032527_star47.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0567059_Dec12.9952256_star22.png,False,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0524640_Dec12.9978326_star260.png,False,not in frame - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0491362_Dec12.9746412_star38.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0825351_Dec12.9590816_star182.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0620922_Dec12.9783475_star274.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0626218_Dec13.0052363_star18.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0711707_Dec13.0041403_star59.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0420213_Dec12.9730502_star207.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0770857_Dec12.9883498_star103.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0630919_Dec12.9650729_star110.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0551701_Dec12.9840314_star39.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0568447_Dec12.9804469_star219.png,False,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0682514_Dec12.9644058_star118.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0695326_Dec12.9723486_star243.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0644614_Dec12.9615897_star145.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0732916_Dec12.9838593_star237.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0747491_Dec12.9727796_star121.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0489007_Dec12.9745626_star36.png,True,variable? - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0640671_Dec12.9596214_star148.png,False,bkg galaxy? - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0786533_Dec12.9787251_star252.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0660737_Dec12.9745757_star233.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0609472_Dec12.9623577_star108.png,True,!! - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0636639_Dec12.9679670_star101.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0689087_Dec13.0040155_star43.png,True,still there? - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0671486_Dec13.0072430_star29.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0834827_Dec13.0003366_star194.png,True,still there? - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0667292_Dec12.9638050_star246.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0764655_Dec12.9882180_star199.png,True,Look at imgs - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0760926_Dec12.9752016_star119.png,False,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0525225_Dec12.9724650_star220.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0571965_Dec12.9758154_star77.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0652998_Dec12.9641964_star115.png,False,not in frame - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0648182_Dec12.9578721_star152.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0505175_Dec12.9709266_star218.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0592379_Dec12.9749794_star83.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0647622_Dec12.9599932_star149.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0711185_Dec12.9966991_star273.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0514600_Dec12.9649395_star223.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0775599_Dec12.9485616_star178.png,True,!! - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0589035_Dec12.9789643_star221.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0765250_Dec12.9766259_star251.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0664389_Dec12.9730281_star238.png,True,variable? - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0799429_Dec12.9775638_star132.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0488249_Dec12.9829295_star23.png,False,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0831238_Dec12.9695873_star257.png,True,weird variable? - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0785418_Dec12.9774322_star125.png,True,!! - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0795506_Dec12.9777825_star129.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0492446_Dec12.9734429_star44.png,True,look at 2019 img - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0704822_Dec12.9640891_star128.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0842907_Dec12.9977636_star200.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0536925_Dec12.9692737_star79.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0487083_Dec12.9816922_star208.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0522639_Dec12.9716387_star72.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0780071_Dec12.9806648_star116.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0550476_Dec12.9767204_star67.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0767327_Dec12.9753211_star253.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0692932_Dec12.9665617_star248.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0791583_Dec12.9726738_star133.png,True,!! - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0809250_Dec12.9763422_star256.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0729141_Dec12.9672591_star130.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0732231_Dec12.9643967_star158.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0472479_Dec12.9736340_star34.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0736059_Dec12.9483175_star172.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0448095_Dec12.9755502_star24.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0764656_Dec12.9584487_star163.png,False,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0539049_Dec12.9767026_star217.png,True,maybe in 2019 img - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0725010_Dec12.9684009_star124.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0752704_Dec12.9465840_star181.png,True,still there? - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0925633_Dec12.9595477_star186.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0811672_Dec12.9681186_star134.png,True,gone in 2014! - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0500856_Dec12.9735530_star265.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0401193_Dec12.9709462_star16.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0812696_Dec12.9656926_star164.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0367924_Dec12.9703579_star206.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0426925_Dec12.9721559_star210.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0836644_Dec12.9699356_star162.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0427870_Dec12.9706666_star211.png,True,still there? - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0894804_Dec12.9666776_star177.png,True,still there? - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0478878_Dec12.9652459_star70.png,False,bkg galaxy - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0812486_Dec12.9671369_star135.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0841667_Dec12.9697291_star259.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0395363_Dec12.9661620_star26.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0397261_Dec12.9764844_star0.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0788755_Dec12.9513450_star179.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0415650_Dec12.9682393_star212.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0447896_Dec12.9699962_star33.png,True,fading? - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0478367_Dec12.9734443_star35.png,False,bkg galaxy - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0851506_Dec12.9547464_star176.png,True,
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0915515_Dec12.9602090_star173.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0486125_Dec12.9843886_star261.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0650037_Dec12.9626211_star244.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0785026_Dec12.9806833_star250.png,False,variable - JP
+sciimg_NGC3627,static/images/sciimg_NGC3627/sciimg_NGC3627_RA170.0573213_Dec12.9650374_star92.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4871133_Dec47.1798656_star4.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5074116_Dec47.2167197_star393.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5099523_Dec47.1876262_star6477.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5137285_Dec47.1647451_star112.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5198173_Dec47.2173833_star2653.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4808296_Dec47.1732440_star2187.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4871396_Dec47.1553704_star960.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4936466_Dec47.1845513_star595.png,False,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4943516_Dec47.2019661_star6595.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5078222_Dec47.1868485_star6476.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4835188_Dec47.1982007_star6582.png,False,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5044167_Dec47.2092271_star2572.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5088350_Dec47.1901130_star6473.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4778231_Dec47.2143601_star244.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4953276_Dec47.1843936_star2379.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4976804_Dec47.2139311_star340.png,True,still there? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5229368_Dec47.1752036_star6530.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4960217_Dec47.1829890_star13.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5039782_Dec47.1688113_star6507.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5158955_Dec47.2120309_star557.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5254359_Dec47.1789347_star2095.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4951150_Dec47.1813468_star6451.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4843253_Dec47.1995376_star6578.png,False,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5159919_Dec47.1992984_star6665.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5192912_Dec47.1776732_star2258.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5183296_Dec47.1742486_star3090.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4901515_Dec47.1792430_star2193.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4877097_Dec47.1795328_star5.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4926673_Dec47.1873733_star550.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4991185_Dec47.1900528_star6466.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4998130_Dec47.2218297_star312.png,True,still there? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5083391_Dec47.1563696_star132.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5218336_Dec47.1723836_star1270.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5069899_Dec47.2116489_star449.png,False,cosmic? -JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4932646_Dec47.1805143_star6486.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5164882_Dec47.2002736_star6664.png,True,variable? -JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4939127_Dec47.1539016_star65.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5173516_Dec47.1682315_star1260.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4777258_Dec47.2025917_star2464.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5209544_Dec47.2093775_star675.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4840293_Dec47.2001035_star6576.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5143431_Dec47.1617953_star2382.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5204839_Dec47.2091615_star1892.png,True,variable? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4685441_Dec47.2109841_star231.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5219727_Dec47.1752438_star101.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4771302_Dec47.2008778_star303.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5232076_Dec47.2102664_star703.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5039947_Dec47.2282966_star2149.png,False,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5196257_Dec47.1800452_star6057.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5025074_Dec47.1981012_star547.png,False,fading? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5141950_Dec47.1715497_star1177.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5292514_Dec47.1925466_star6055.png,False,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4920241_Dec47.1840565_star6617.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4771760_Dec47.2140577_star2415.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5264003_Dec47.1818401_star1208.png,False,not in frame - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5193862_Dec47.2073115_star6643.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5028742_Dec47.1900449_star669.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4744521_Dec47.1729877_star488.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4918435_Dec47.1541469_star60.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5052527_Dec47.1544325_star121.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5149123_Dec47.1729815_star6517.png,True,!! - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5236741_Dec47.1709038_star6540.png,True,variable? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5138886_Dec47.1630312_star125.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5125916_Dec47.2010948_star6637.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4917398_Dec47.1937591_star6599.png,False,variable? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4943519_Dec47.1768931_star23.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5091032_Dec47.1682335_star6515.png,False,variable? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5239211_Dec47.1795451_star6520.png,True,outburst in 2019? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5306950_Dec47.1916612_star1144.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5153704_Dec47.2081402_star596.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4965544_Dec47.1718373_star36.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4863832_Dec47.1816684_star532.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4609582_Dec47.2093475_star214.png,True,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4724016_Dec47.2040323_star1752.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4869643_Dec47.1983406_star368.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5017530_Dec47.1718591_star6499.png,True,outburst in 2019? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5006765_Dec47.1570728_star2260.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4933458_Dec47.1949447_star6603.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5317020_Dec47.1665352_star6552.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5087438_Dec47.1829104_star6496.png,True,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4810684_Dec47.1760229_star527.png,False,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5052437_Dec47.1657445_star6512.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4938389_Dec47.2206120_star290.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4698305_Dec47.2138083_star224.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4841506_Dec47.1787958_star3.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5287623_Dec47.1753779_star6542.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4871585_Dec47.1782185_star6450.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4985599_Dec47.2010667_star3871.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5158043_Dec47.1691861_star95.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5195904_Dec47.2177034_star535.png,True,still there? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4854603_Dec47.2126202_star281.png,False,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5245664_Dec47.1711048_star2383.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5200017_Dec47.1669405_star143.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5031125_Dec47.2228177_star6437.png,False,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5308575_Dec47.1644639_star2098.png,False,artifact - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4809740_Dec47.1772478_star2629.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5071700_Dec47.2069787_star6441.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4741919_Dec47.1721025_star6101.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4735387_Dec47.2118589_star241.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5106942_Dec47.1610757_star1257.png,False,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5302209_Dec47.1687146_star6551.png,True,not in last 2 epochs - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4891167_Dec47.1704319_star6487.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4753825_Dec47.1768244_star456.png,False,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5182729_Dec47.1675997_star6536.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4827717_Dec47.1737574_star2190.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5137822_Dec47.1745864_star6513.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4956557_Dec47.1926369_star517.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4997900_Dec47.1850399_star2214.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5030830_Dec47.1658862_star6112.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5221832_Dec47.1996841_star2181.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5114689_Dec47.1901701_star2356.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5043268_Dec47.1734411_star6502.png,True,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4973020_Dec47.1753385_star6457.png,True,variable? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4698547_Dec47.2179359_star2393.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5034229_Dec47.2219097_star1782.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5067563_Dec47.2231617_star1540.png,True,!! - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5116580_Dec47.1638230_star105.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4852796_Dec47.1613770_star823.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5162548_Dec47.1944469_star6678.png,True,variable? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5245277_Dec47.1958410_star962.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4749395_Dec47.2061141_star262.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5119469_Dec47.1658939_star6118.png,False,not in frame - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5133141_Dec47.1617083_star133.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4661128_Dec47.2171500_star205.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4875770_Dec47.1880750_star2596.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5089037_Dec47.1555996_star139.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5171478_Dec47.1737724_star82.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5076563_Dec47.2155407_star2543.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4708613_Dec47.1764832_star411.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4777538_Dec47.1726045_star2186.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5099004_Dec47.2300498_star2162.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5128753_Dec47.1881957_star6689.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5223218_Dec47.1857925_star6321.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5197217_Dec47.2148578_star571.png,False,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5320571_Dec47.1747730_star6546.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4997656_Dec47.1509223_star2366.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4870873_Dec47.1677526_star6454.png,True,variable? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5144008_Dec47.2213417_star1554.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5257370_Dec47.1738379_star6539.png,True,variable? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5180755_Dec47.1700120_star1243.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5222758_Dec47.2064169_star6453.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5094472_Dec47.1627208_star91.png,False,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4981487_Dec47.1878659_star2352.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5279971_Dec47.2098285_star6455.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5245371_Dec47.2085514_star750.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5101898_Dec47.1596379_star2276.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5036563_Dec47.1588683_star1678.png,False,not in frame - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5255060_Dec47.1937729_star6097.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4843253_Dec47.1733549_star607.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5184135_Dec47.2050656_star2785.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4867120_Dec47.1555455_star45.png,True,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4975188_Dec47.2081226_star6592.png,False,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5014242_Dec47.1895850_star2734.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5117519_Dec47.1613216_star1272.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5175396_Dec47.2165927_star515.png,True,
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4636306_Dec47.2191634_star2390.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4705377_Dec47.1678484_star498.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4820210_Dec47.2068556_star6565.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4930065_Dec47.1786797_star2353.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5278881_Dec47.1978952_star988.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5278167_Dec47.1670384_star6550.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5117830_Dec47.2015475_star638.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4793950_Dec47.1561852_star2856.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.4908483_Dec47.1895500_star3925.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5109222_Dec47.2198134_star415.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5305431_Dec47.1949661_star3018.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5258300_Dec47.2088989_star6424.png,True,variable? - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5219261_Dec47.1930676_star6480.png,False,variable - JP
+sciimg_NGC5194,static/images/sciimg_NGC5194/sciimg_NGC5194_RA202.5037362_Dec47.2149769_star385.png,False,variable - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8288817_Dec44.5342757_star144.png,False,variable - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4841063_Dec-18.8790561_star101.png,False,moving  - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4542544_Dec-18.8846906_star5.png,False,moving  - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4727862_Dec-18.8604127_star64.png,False,variable - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4900674_Dec-18.8971781_star112.png,False,moving - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4815398_Dec-18.8792473_star89.png,False,variable - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4809638_Dec-18.8716487_star90.png,False,variable - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4803217_Dec-18.8851687_star83.png,False,variable - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4668444_Dec-18.8747761_star57.png,False,variable - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4588725_Dec-18.8696045_star10.png,True,
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4661201_Dec-18.8756478_star51.png,True,faded? - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4769099_Dec-18.8825562_star70.png,False,variable - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4777830_Dec-18.8678731_star77.png,False,variable - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4788239_Dec-18.8692978_star82.png,False,variable - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4816098_Dec-18.8725445_star94.png,True,variable? - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4677447_Dec-18.8901737_star56.png,False,artifact in ref - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4733132_Dec-18.8592483_star66.png,False,variable - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4772808_Dec-18.8854039_star72.png,False,variable - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4824198_Dec-18.8887060_star92.png,False,variable - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4822937_Dec-18.8854912_star93.png,False,variable - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4895335_Dec-18.8642424_star108.png,True,!! - JP
+sciimg_NGC4038,static/images/sciimg_NGC4038/sciimg_NGC4038_RA180.4629275_Dec-18.8659791_star39.png,False,moving? - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8139372_Dec44.5293474_star120.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7989675_Dec44.5166504_star116.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7959676_Dec44.5561891_star26.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7968144_Dec44.5181397_star106.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7993275_Dec44.5414238_star62.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7701517_Dec44.5413282_star2.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7847739_Dec44.5219055_star77.png,True,still there? - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7912740_Dec44.5328844_star66.png,False,artifact in ref - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7976522_Dec44.5174122_star108.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8057276_Dec44.5159667_star244.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7826678_Dec44.5265068_star63.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7850409_Dec44.5218288_star79.png,True,still there? - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7827686_Dec44.5260409_star64.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8194267_Dec44.5293430_star138.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7998878_Dec44.5534622_star42.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7767680_Dec44.5436417_star190.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7883981_Dec44.5225994_star84.png,True,still there? - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7760051_Dec44.5411851_star194.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8194532_Dec44.5296503_star135.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8024225_Dec44.5219726_star109.png,True,
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8124347_Dec44.5380680_star94.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7891294_Dec44.5220875_star85.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7741908_Dec44.5288483_star43.png,True,still there? - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7628190_Dec44.5303194_star191.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7867755_Dec44.5549095_star6.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7998335_Dec44.5470418_star53.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8283351_Dec44.5346894_star148.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8010006_Dec44.5553856_star37.png,False,
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8168043_Dec44.5285502_star132.png,True,fading? - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7934359_Dec44.5184991_star96.png,True,!! - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7708064_Dec44.5355007_star197.png,True,still there? - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8188288_Dec44.5152760_star250.png,True,!! - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7884659_Dec44.5622408_star182.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8334658_Dec44.5395730_star181.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7665578_Dec44.5354248_star187.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7795227_Dec44.5480940_star5.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8210592_Dec44.5422660_star240.png,True,"!!, maybe extreme variable-JP"
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8225495_Dec44.5432147_star175.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7782245_Dec44.5425828_star196.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7961116_Dec44.5365721_star71.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8135633_Dec44.5322696_star111.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7739618_Dec44.5270791_star48.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7946593_Dec44.5411486_star60.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8105504_Dec44.5162515_star247.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8398455_Dec44.5393150_star252.png,True,!! - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7784138_Dec44.5462616_star8.png,True,variable? -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7992504_Dec44.5423218_star221.png,True,still there? - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8188287_Dec44.5318283_star124.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8157632_Dec44.5562228_star68.png,False,
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7959623_Dec44.5576313_star18.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7882272_Dec44.5623966_star183.png,True,
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7928293_Dec44.5508406_star31.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.7930452_Dec44.5480095_star36.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8269805_Dec44.5316643_star154.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8024446_Dec44.5543058_star47.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8026364_Dec44.5507490_star216.png,False,
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8007139_Dec44.5590229_star207.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8305740_Dec44.5389418_star140.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8297750_Dec44.5353334_star251.png,False,variable -JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8088540_Dec44.5380426_star233.png,True,not sure this is real - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8077706_Dec44.5528154_star61.png,True,still there? - JP
+sciimg_NGC4051,static/images/sciimg_NGC4051/sciimg_NGC4051_RA180.8148659_Dec44.5548096_star70.png,True,variable? - JP
+sciimg_NGC1365,static/images/sciimg_NGC1365/sciimg_NGC1365_RA53.4107165_Dec-36.1593754_star2.png,False,variable - JP

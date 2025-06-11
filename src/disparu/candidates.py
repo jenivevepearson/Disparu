@@ -47,10 +47,10 @@ async def followup_pages():
                     web_path = img.replace('static/images', '/images')
                     ui.image(web_path).classes("max-w-[80%] h-auto object-contain")
                     #img_path = ui.label(img).classes("text-h3")
-                    with ui.column().classes("items-center"):
+                    with ui.column().classes("items-center gap-0"):
                         ui.label(f"{img.split('_')[-4].split('/')[-1]}").classes("text-h5")
-                        ui.label(f"{img.split('_')[-3].split('/')[-1][:2]}: {img.split('_')[-3].split('/')[-1][2:]}").classes("text-sm")
-                        ui.label(f"{img.split('_')[-2].split('/')[-1][:3]}: {img.split('_')[-2].split('/')[-1][3:]}").classes("text-sm")
+                        ui.label(f"{img.split('_')[-3].split('/')[-1][:2]}: {img.split('_')[-3].split('/')[-1][2:]}").classes("text-sm  m-0 p-0")
+                        ui.label(f"{img.split('_')[-2].split('/')[-1][:3]}: {img.split('_')[-2].split('/')[-1][3:]}").classes("text-sm  m-0 p-0")
                         ui.label("Follow up?").classes("text-sm text-gray-600")
                         checkbox = ui.checkbox(
                                 value=follow_up_value,
