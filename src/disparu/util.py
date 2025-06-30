@@ -48,6 +48,7 @@ def update_comment(img_path, comment_input, galaxyname):
     save_annotations(annotations)
     
 def _post_table(galaxy_df):
+    galaxy_df = galaxy_df.sort_values("Galaxy Name", ascending=True)
 
     table = ui.table.from_pandas(galaxy_df).classes('width-500')
     table.add_slot(
