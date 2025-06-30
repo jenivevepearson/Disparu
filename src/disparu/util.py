@@ -49,18 +49,26 @@ def update_comment(img_path, comment_input, galaxyname):
     
 def _post_table(galaxy_df):
     galaxy_df = galaxy_df.sort_values("Galaxy Name", ascending=True)
+    
+    # Split into chunks of 10 rows
+    num_rows = len(galaxy_df)
+    chunk_size = 10
+    num_chunks = int(num_rows / chunk_size)+1
+    with ui.row().classes("w-full justify-start"):
+        for i in range(num_chunks):
+            chunk = galaxy_df.iloc[i*chunk_size:(i+1)*chunk_size]            
+            table = ui.table.from_pandas(chunk).classes('w-1/5')  # Adjust width if needed
 
-    table = ui.table.from_pandas(galaxy_df).classes('width-500')
-    table.add_slot(
-        'body-cell-title',
-        r'<td><a :href="props.row.url">{{ props.row.title }}</a></td>'
-    )
-    table.on(
-        'rowClick',
-        lambda e : ui.navigate.to(
-               f'/sciimg_{e.args[1]["Galaxy Name"]}'
-            )
-    )
+            table.add_slot(
+                    'body-cell-title',
+                    r'<td><a :href="props.row.url">{{ props.row.title }}</a></td>'
+                    )
+            table.on(
+                    'rowClick',
+                    lambda e: ui.navigate.to(
+                        f'/sciimg_{e.args[1]["Galaxy Name"]}'
+                        )                 
+                    )
 
 def _generate_table(images_dir):
     #print(images_dir)
